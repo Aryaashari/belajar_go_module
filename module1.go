@@ -1,5 +1,5 @@
 package module_1
 
 func module_1() string {
-	return "Module 1"
+	return "Module 1 Terbaru"
 }
